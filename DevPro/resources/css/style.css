@@ -53,7 +53,7 @@ html {
     margin: 0 auto;
     width: 85%;
     height: 35rem;
-    background-image: url("../images/coventree.jpg");
+    background-image: url("..../images/coventree.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position-x: center;

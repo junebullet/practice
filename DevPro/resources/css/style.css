@@ -53,7 +53,7 @@ html {
     margin: 0 auto;
     width: 85%;
     height: 35rem;
-    background-image: url("..../images/coventree.jpg");
+    background-image: url("..images/coventree.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position-x: center;
@@ -78,7 +78,7 @@ html {
     width: 85%;
     height: 35rem;
     margin: 0 auto;
-    background-image: url(../images/ctshows.png);
+    background-image: url("../images/ctshows.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position-y: bottom;
@@ -139,7 +139,7 @@ html {
     width: 85%;
     height: 35rem;
     margin: 0 auto;
-    background-image: url(../images/ctabout.jpg);
+    background-image: url("../images/ctabout.jpg");
     background-size: contain;
     overflow: hidden;
     background-repeat: no-repeat;
